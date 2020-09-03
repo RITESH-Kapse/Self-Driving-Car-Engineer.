@@ -1,0 +1,12 @@
+https://medium.com/swlh/self-driving-car-finding-lane-lines-4d9f405df368
+
+For lane detection on a video, we have to pass some steps that you can see below:
+
+	Getting each frame from video
+	Making grayscale each frame
+	Detecting edges by using Canny Algorithm
+	Finding Lane by using Hough Algorithm
+	Improving output and making a new video as a result
+	
+	Gaussian smoothing and Canny Edge Detection to optimize for detecting the lane lines
+
