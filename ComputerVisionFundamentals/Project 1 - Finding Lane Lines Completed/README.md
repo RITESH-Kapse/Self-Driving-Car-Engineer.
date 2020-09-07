@@ -30,3 +30,7 @@ My pipeline consisted of below steps :
 How to run the project :
 
       Simply open "P1 Lane Detection Final Code.ipynb" file and run the cells inside jupyter notebook. Results will get saved to "test_videos_output" folder.
+
+Referred Links/Videos :
+      https://www.youtube.com/watch?v=hnXkCiM2RSg&feature=youtu.be
+      https://www.youtube.com/watch?v=LECg-Gv5xjo&list=PLJeClhKBNwzhHQA9moIPMPB6Ly5PNjbtm&index=46
