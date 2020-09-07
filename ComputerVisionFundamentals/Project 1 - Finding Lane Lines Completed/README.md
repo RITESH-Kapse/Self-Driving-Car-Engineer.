@@ -26,3 +26,7 @@ My pipeline consisted of below steps :
       Applying these results on actual image as weighted image. 
       Averaging the lane lines 
       Applying results on video( which is nothing but series of Images) 
+
+How to run the project :
+
+      Simply open "P1 Lane Detection Final Code.ipynb" file and run the cells inside jupyter notebook. Results will get saved to "test_videos_output" folder.
