@@ -34,3 +34,7 @@ How to run the project :
 Referred Links/Videos :
       https://www.youtube.com/watch?v=hnXkCiM2RSg&feature=youtu.be
       https://www.youtube.com/watch?v=LECg-Gv5xjo&list=PLJeClhKBNwzhHQA9moIPMPB6Ly5PNjbtm&index=46
+      https://medium.com/@naokishibuya/finding-lane-lines-on-the-road-30cf016a1165
+      https://github.com/naokishibuya/car-finding-lane-lines/blob/master/Finding%20Lane%20Lines%20on%20the%20Road.ipynb
+      https://stackoverflow.com/questions/21324950/how-can-i-select-the-best-set-of-parameters-in-the-canny-edge-detection-algorith
+      
