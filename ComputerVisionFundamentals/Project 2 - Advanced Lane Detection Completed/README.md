@@ -1,5 +1,7 @@
 ## Advanced Lane Finding
 
+Steps to run the project code :
+
 Just open the file 'ProjectVideoCode.ipynb' and execute the code blocks one after the other. Once pipeline will get executed,
 the output video output is created.
 
