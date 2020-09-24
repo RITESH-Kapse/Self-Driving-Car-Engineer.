@@ -3,7 +3,7 @@
 Steps to run the project code :
 
 Just open the file 'ProjectVideoCode.ipynb' and execute the code blocks one after the other. Once pipeline will get executed,
-the output video output is created.
+the output video is created.
 
 "project_video.mp4" is input to pipeline under the file "ProjectVideoCode.ipynb" and "project_video_output.mp4" is the output for same.
 "challenge_video.mp4" is input to pipeline under the file "ChallengeVideoCode.ipynb" and "challenge_video_output.mp4" is the output for same.
