@@ -10,7 +10,7 @@ the output video is created.
 
 Also for detailed explanation of code with each step implementation study / code and analyis , please refer "writeup.pdf" document.
 
-The excel sheet "AdvanceLaneDetection-Project.xlsx" contains the approach I took to learn and get this project done. 
+The excel sheet "AdvanceLaneDetection-Project.xlsx" contains the approach I took to learn and get this project done. (WIP , will upate as an when I work more on this area)
 
 Below are the other references if you want to find similiar blogs / codes  wrt advanced lane detection I have referred :
 https://medium.com/swlh/advanced-lane-detection-fd39572cfe91
